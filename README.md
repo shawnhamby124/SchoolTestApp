@@ -20,7 +20,7 @@ More of these updates comming soon plainging to realse the new app update on
       
   Removes:
   
-      . firebase real time database
+      * firebase real time database
 
 ==================================================================================
 # Firebase Connection
