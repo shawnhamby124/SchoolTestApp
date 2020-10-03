@@ -5,13 +5,19 @@ More of these updates comming soon plainging to realse the new app update on
 
   Updates:
       * firebase storge
+      
       * firsbase auth
       * firebase in-app messages
+      
       * firebase cloud storge
+      
       * signin and signup page
+      
       * profile pictuer add
       
-  Removes
+      
+  Removes:
+  
       . firebase real time database
 
 ==================================================================================
