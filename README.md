@@ -4,9 +4,11 @@ More of these updates comming soon plainging to realse the new app update on
 10/10/2020 the new update will contain
 
   Updates:
+  
       * firebase storge
-      
+    
       * firsbase auth
+      
       * firebase in-app messages
       
       * firebase cloud storge
