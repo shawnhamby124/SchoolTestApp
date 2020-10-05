@@ -7,13 +7,13 @@
 5) put the file inside of the app folder
 fell free to edit the code
 
-==================================================================================
+==============================================================================
 
 
 # More Updates
 
-More of these updates comming soon plainging to realse the new app update on 
-10/10/2020 the new update will contain
+More of these updates comming soon planning to realse the new app update on 
+10/2-/2020 the new update will contain
 
   Updates:
   
