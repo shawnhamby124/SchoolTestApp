@@ -17,15 +17,15 @@ More of these updates comming soon planning to realse the new app update on
 
   Updates:
   
-      * firebase storge
+      * firebase storge (done)
     
-      * firsbase auth
+      * firsbase auth (done)
       
       * firebase in-app messages
       
       * firebase cloud storge
       
-      * signin and signup page
+      * signin and signup page (done)
       
       * profile pictuer add
       
