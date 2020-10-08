@@ -32,9 +32,6 @@ More of these updates comming soon planning to realse the new app update on
       
   Removes:
   
-      * firebase real time database
+      * firebase real time database (done)
 
 ==================================================================================
-
-ScreenShots Of New Updates:
-  ![image](https://ibb.co/bgfDth8)
